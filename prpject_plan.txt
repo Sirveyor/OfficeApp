@@ -1,0 +1,54 @@
+- **Defining the Scope**: Clearly outline what the project will do.
+Land Surveying Office Utilities
+The goal of this project is to have an app that will keep track of the administrative asspects of land surveying projects except billing. It will keep track of time spent on field work and office drafting, and provide scheduling for field and office work. It will have a file manager that will keep a log of specific file use. It will also have a tool to convert dimensions from architectual units to engineering units. And it will have a reporting freature for project time and project scheduling.
+
+
+- **Identifying Features**: List all the features you want in your application.
+1. Multi-User Database
+2. Time tracking
+3. Scheduling
+4. File manager
+5. Dimension converter
+6. Reporting
+7. User authentication
+8. User roles
+9. Project management
+10. Task management
+11. Multi-tab root window
+12. Two-frame file manager
+
+- **Creating a Timeline**: Set milestones and deadlines for each phase of the project.
+
+Phase One - Project time tracking.
+1. Week 1: Define the scope and features of the project.
+2. Week 2-4: Design the database tables, write the code for the database manager and test.
+4. Week 5-6: Write the code for the time tracking user interface.
+5. Week 7-8: Write the code for time tracking module.
+5. Week 8-9: Write the code for the report user interface.
+6. Week 9-10: Write the code for the report module.
+7. Week 10-11: Write the code for the pinter interface.
+8. Week 11-12: Write the code for the printer module.
+9. Week 12-13: write the code for user authentication with roles.
+8. Week 13-14: Implement user authentication and user roles.
+9. Week 11-12: Test and debug the application: version 0.0.1 alpha testing release.
+Milestone: deploy phase one at my office.
+
+Phase Two
+7. Week 13-14: Write the code for the file manager user interface.
+8. Week 15-16: Write the code for the file manager module.
+9. Week 17-18: Test and debug the the application: version 0.0.2 alpha testing release.
+10. Week 19-20: Deploy phase two at my office.
+
+Phase Three
+11. Week 21-22: Write the code for the scheduling user interface.
+12. Week 23-24: Write the code for the scheduling module.
+13. Week 25-26: Write the code for the dimension converter user interface.
+14. Week 27-28: Write the code for the dimension converter module.
+15. Week 29-30: Test and debug the application: version 0.1.0 
+16. Week 31-32: Deploy phase three at my office.
+
+Phase Four
+17. Week 33-34: Write code for project / task management user interface.
+18. Week 35-36: Write code for project / task management module.
+19: Week 37-38: Test and debug the application: version 1.0.0 release canidate.
+20. Week 39-40: Deploy phase four at my office.
