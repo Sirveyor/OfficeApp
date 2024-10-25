@@ -118,7 +118,7 @@ Once your application is complete and tested, deploy it.
   class MainApp(tk.Tk):
       def __init__(self):
           super().__init__()
-          self.title("Project Management App")
+          self.title("Survey Office")
           self.geometry("800x600")
 
           self.menu_frame = ttk.Frame(self)

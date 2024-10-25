@@ -1,0 +1,11 @@
+{
+    "Time Tracking": [
+        {"type": "Label", "text": "Welcome to Layout 1", "row": 0, "column": 0, "sticky": "W", "padx": 5, "pady": 5},
+        {"type": "Entry", "width": 25, "row": 1, "column": 0, "sticky": "WE", "padx": 5, "pady": 5},
+        {"type": "Button", "text": "Submit", "row": 2, "column": 0, "sticky": "WE", "padx": 5, "pady": 5}
+    ],
+    "layout2": [
+        {"type": "Label", "text": "Welcome to Layout 2", "row": 0, "column": 0, "sticky": "W", "padx": 5, "pady": 5},
+        {"type": "Button", "text": "Click Me", "row": 1, "column": 0, "sticky": "WE", "padx": 5, "pady": 5}
+    ]
+}
